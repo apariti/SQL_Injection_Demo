@@ -17,20 +17,20 @@ This is a simple web application built with a frontend in React and a backend in
 
 To run this project locally, follow these steps:
 
-### Frontend
-
-1. Navigate to the `frontend` directory.
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-
-The frontend will be accessible at [http://localhost:3000](http://localhost:3000).
-
 ### Backend
 
 1. Navigate to the `backend` directory.
 2. Install Go if not already installed.
-3. Run the backend server: `go run main.go`
+3. Run the backend server: `go run main.go` or `./sqlinjection`
 
+### Frontend
+
+1. Install `node.js` and `npm` using [https://nodejs.org/en/download/](Node.js)
+2. Navigate to the `frontend` directory.
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+
+The frontend will be accessible at [http://localhost:3000](http://localhost:3000).
 
 ## SQL Injection Demonstrations
 
