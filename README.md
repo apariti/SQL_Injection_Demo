@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 ### Frontend
 
-1. Install `node.js` and `npm` using [https://nodejs.org/en/download/](Node.js)
+1. Install `node.js` and `npm` using [Node.js](https://nodejs.org/en/download))
 2. Navigate to the `frontend` directory.
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
